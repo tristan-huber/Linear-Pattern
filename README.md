@@ -4,11 +4,20 @@
 
 ![](/project.svg)
 
+## Inputs
+
+- **Number** (number)
+- **Geometry** (geometry)
+- **distX** (number)
+- **distY** (number)
+- **distZ** (number)
+
+
 
 
  Readme text here
 
-**Value:** __GEOMETRY_INPUT__
+__GEOMETRY_INPUT__
 
 
 
